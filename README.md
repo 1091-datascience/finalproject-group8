@@ -31,4 +31,5 @@
 #### Related Publication
 - https://towardsdatascience.com/how-powerful-can-an-ensemble-of-linear-models-be-231824de50e1
 - https://rpubs.com/skydome20/R-Note16-Ensemble_Learning
+- http://violin-tao.blogspot.com/2018/01/ml-ensemble.html
 
