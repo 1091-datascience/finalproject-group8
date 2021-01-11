@@ -27,6 +27,7 @@
 - https://www.kaggle.com/rrrrrikimaru/create-model-simple-e-to-e-eda-to-ensemble
 
 #### Used Packages
+- Numpy, Pandas, Matplotlib, Seaborn
 - https://xgboost.readthedocs.io/en/latest/python/python_api.html
 - https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html
 - https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDRegressor.html
