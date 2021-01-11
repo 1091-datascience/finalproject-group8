@@ -19,7 +19,7 @@
 ## Models
 
 ## Result
-- [Slide Presentation](https://docs.google.com/presentation/d/1423q9cYH-ZGHwKdxQz7N30RySXzb6yj5t1AMYe7mYMM/edit#slide=id.gaae3452625_0_52)
+- [Slide Presentation]()
 
 ## References
 
