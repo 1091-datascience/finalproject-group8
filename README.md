@@ -24,3 +24,9 @@
 #### Comparison
 
 ### References
+
+#### Ensemble Model
+- https://towardsdatascience.com/how-powerful-can-an-ensemble-of-linear-models-be-231824de50e1
+- https://www.kaggle.com/rrrrrikimaru/create-model-simple-e-to-e-eda-to-ensemble
+- https://rpubs.com/skydome20/R-Note16-Ensemble_Learning
+
