@@ -39,6 +39,7 @@
 
 #### Reference Code
 - https://www.kaggle.com/rrrrrikimaru/create-model-simple-e-to-e-eda-to-ensemble
+- https://medium.com/yuying%E7%9A%84%E4%BD%9C%E5%93%81%E9%9B%86/python-%E7%94%A2%E5%93%81%E9%8A%B7%E5%94%AE%E9%87%8F%E9%A0%90%E6%B8%AC-with-code-kaggle-top-6-8a15f852e874
 
 #### Used Packages
 - Numpy, Pandas, Matplotlib, Seaborn
