@@ -22,10 +22,15 @@
 
 ### Result
 
+---
 ### References
-
-#### Ensemble Model
-- https://towardsdatascience.com/how-powerful-can-an-ensemble-of-linear-models-be-231824de50e1
+---
+#### Reference Code
 - https://www.kaggle.com/rrrrrikimaru/create-model-simple-e-to-e-eda-to-ensemble
+
+#### Used Packages
+
+#### Related Publication
+- https://towardsdatascience.com/how-powerful-can-an-ensemble-of-linear-models-be-231824de50e1
 - https://rpubs.com/skydome20/R-Note16-Ensemble_Learning
 
