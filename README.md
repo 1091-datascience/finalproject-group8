@@ -27,6 +27,13 @@
 - https://www.kaggle.com/rrrrrikimaru/create-model-simple-e-to-e-eda-to-ensemble
 
 #### Used Packages
+- https://xgboost.readthedocs.io/en/latest/python/python_api.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDRegressor.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectFromModel.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
 
 #### Related Publication
 - https://towardsdatascience.com/how-powerful-can-an-ensemble-of-linear-models-be-231824de50e1
