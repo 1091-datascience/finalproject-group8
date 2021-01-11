@@ -14,7 +14,7 @@
 ## Data
 
 ## Evaluation Method
-- RMSE (root-mean-square error)
+- [RMSE (root-mean-square error)](https://en.wikipedia.org/wiki/Root-mean-square_deviation)
 
 ## Models
 
