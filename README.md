@@ -18,18 +18,22 @@
 
 ## Models
 
+#### XGBoost Regressor
+
 #### Ensemble Model
 - Use Bagging/Boosting/Stacking Strategy
   - Ensemble Random Forest/SVD Regressor/Ridge Regressor
-    - RMSE with only model_1
+    - RMSE (respectively): 1.01704/1.06846/1.07151
   - Final layer use Linear Regressor
+    - RMSE: 0.90700
   
 #### Null Model
 - Use the mean (0.286274) of our prediction
   - RMSE: 1.21744
 
 ## Result
-- Slide Presentation
+- [Slide Presentation]()
+- Ranking at 1018 place with RMSE 0.89604
 
 ## References
 
