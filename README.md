@@ -18,8 +18,18 @@
 
 ## Models
 
+#### Ensemble Model
+- Use Bagging/Boosting/Stacking Strategy
+  - Ensemble Random Forest/SVD Regressor/Ridge Regressor
+    - RMSE with only model_1
+  - Final layer use Linear Regressor
+  
+#### Null Model
+- Use the mean (0.286274) of our prediction
+  - RMSE: 1.21744
+
 ## Result
-- [Slide Presentation]()
+- Slide Presentation
 
 ## References
 
