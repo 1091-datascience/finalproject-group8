@@ -41,6 +41,7 @@ Link: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/dat
 ## Models
 
 #### XGBoost Regressor
+- RMSE: 0.89604
 
 #### Ensemble Model
 - Use Bagging/Boosting/Stacking Strategy
