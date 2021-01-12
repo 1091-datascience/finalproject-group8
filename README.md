@@ -65,7 +65,7 @@ Link: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/dat
   - RMSE: 1.21744
 
 ## Result
-- [Slide Presentation](https://docs.google.com/presentation/d/1423q9cYH-ZGHwKdxQz7N30RySXzb6yj5t1AMYe7mYMM/edit?usp=sharing)
+- Slide Presentation
 - Ranking at 1018 place with RMSE 0.89604
 
 ## References
