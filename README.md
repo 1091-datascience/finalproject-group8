@@ -38,11 +38,11 @@ Link: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/dat
 - Preprocessing
   - 異常值處理
   - shop值處理：
-    相同shop合併
-    shop劃分為city和category
-    出現頻率低的category用etc表示
+   - 相同shop合併
+   - shop劃分為city和category
+   - 出現頻率低的category用etc表示
   - item_categories進行分類/篩選
-  - item_name進行篩選/細分
+  - item_name進行細分/篩選
 
 
 
