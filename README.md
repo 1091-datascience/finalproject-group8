@@ -37,7 +37,10 @@ Link: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/dat
   
 - Preprocessing
   - 異常值處理
-  - shop值處理：相同shop合併/shop劃分為city和category/出現頻率低的category用etc表示
+  - shop值處理
+        - 相同shop合併
+        - shop劃分為city和category
+        - 出現頻率低的category用etc表示
   - item_categories進行分類/篩選
   - item_name進行細分/篩選
 
@@ -63,7 +66,7 @@ Link: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/dat
   - RMSE: 1.21744
 
 ## Result
-- [Slide Presentation]()
+- [Slide Presentation](https://docs.google.com/presentation/d/1423q9cYH-ZGHwKdxQz7N30RySXzb6yj5t1AMYe7mYMM/edit?usp=sharing)
 - Ranking at 1018 place with RMSE 0.89604
 
 ## References
