@@ -43,8 +43,6 @@ Link: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/dat
   - item_categories進行分類/篩選
   - item_name進行細分/篩選
 
-
-
 ## Evaluation Method
 - [RMSE (root-mean-square error)](https://en.wikipedia.org/wiki/Root-mean-square_deviation)
 
@@ -65,7 +63,7 @@ Link: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/dat
   - RMSE: 1.21744
 
 ## Result
-- Slide Presentation
+- [Slide Presentation](https://github.com/1091-datascience/finalproject-group8/blob/main/Slide%20Presentation/Slides.pdf)
 - Ranking at 1018 place with RMSE 0.89604
 
 ## References
